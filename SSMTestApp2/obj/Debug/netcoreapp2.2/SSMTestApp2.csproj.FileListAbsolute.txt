@@ -1,0 +1,13 @@
+C:\Users\srprash\source\repos\SSMTestApp2\SSMTestApp2\bin\Debug\netcoreapp2.2\SSMTestApp2.deps.json
+C:\Users\srprash\source\repos\SSMTestApp2\SSMTestApp2\bin\Debug\netcoreapp2.2\SSMTestApp2.runtimeconfig.json
+C:\Users\srprash\source\repos\SSMTestApp2\SSMTestApp2\bin\Debug\netcoreapp2.2\SSMTestApp2.runtimeconfig.dev.json
+C:\Users\srprash\source\repos\SSMTestApp2\SSMTestApp2\bin\Debug\netcoreapp2.2\SSMTestApp2.dll
+C:\Users\srprash\source\repos\SSMTestApp2\SSMTestApp2\bin\Debug\netcoreapp2.2\SSMTestApp2.pdb
+C:\Users\srprash\source\repos\SSMTestApp2\SSMTestApp2\obj\Debug\netcoreapp2.2\SSMTestApp2.csproj.CoreCompileInputs.cache
+C:\Users\srprash\source\repos\SSMTestApp2\SSMTestApp2\obj\Debug\netcoreapp2.2\SSMTestApp2.RazorAssemblyInfo.cache
+C:\Users\srprash\source\repos\SSMTestApp2\SSMTestApp2\obj\Debug\netcoreapp2.2\SSMTestApp2.RazorAssemblyInfo.cs
+C:\Users\srprash\source\repos\SSMTestApp2\SSMTestApp2\obj\Debug\netcoreapp2.2\SSMTestApp2.AssemblyInfoInputs.cache
+C:\Users\srprash\source\repos\SSMTestApp2\SSMTestApp2\obj\Debug\netcoreapp2.2\SSMTestApp2.AssemblyInfo.cs
+C:\Users\srprash\source\repos\SSMTestApp2\SSMTestApp2\obj\Debug\netcoreapp2.2\SSMTestApp2.RazorTargetAssemblyInfo.cache
+C:\Users\srprash\source\repos\SSMTestApp2\SSMTestApp2\obj\Debug\netcoreapp2.2\SSMTestApp2.dll
+C:\Users\srprash\source\repos\SSMTestApp2\SSMTestApp2\obj\Debug\netcoreapp2.2\SSMTestApp2.pdb
